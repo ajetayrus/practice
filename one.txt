@@ -1,3 +1,4 @@
 This is created for git training.
 Alphabets without a is located in fid.txt file.
-please g and check
+please go and check
+just started.
