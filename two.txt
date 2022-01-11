@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is to pracice git branch creation.
-=======
-Commiting changes to newly created branch
->>>>>>> 37eeab9c3a6d404077756baae034bb24d4d138d2
+This is a new file
